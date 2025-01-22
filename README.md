@@ -5,4 +5,4 @@ Miniconda: https://www.anaconda.com/download/success
 VSCode: https://code.visualstudio.com/
 
 Dependency:
-`pip install opencv-python torch torchvision torchaudio`
+`pip install opencv-python pandas matplotlib torch torchvision torchaudio`
